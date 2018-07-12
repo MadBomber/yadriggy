@@ -1,3 +1,5 @@
+This is an interesting concept.  This fork/branch is intended as an experiment to see how the codebase can be extended to support the crystal language.
+
 # Yadriggy
 
 Yadriggy (mistletoe in Japanese) is a library for building a
